@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ikan Cupang</string>
+    <string name="cupang_name" />
+    <string name="detail" />
+    <string name="about">About</string>
+    <string name="iskandar_sholeh">Iskandar Sholeh</string>
+    <string name="isandar_sholeh22_gmail_com">isandar.sholeh22@gmail.com</string>
+    <string name="data_received" />
+</resources>
